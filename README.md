@@ -1,5 +1,3 @@
-# MadBox
-
 # The time it took you to perform the exercise
 5h
 
