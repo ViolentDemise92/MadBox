@@ -25,4 +25,4 @@ At first I thought it would be easy, but time could play against me.
 # Any comment you may have
 
 If I had more time I know I would be able to improve this game significantly.
-I am satisfied with the results, since I was able to add all the elements I had in mind while watching the demo: damaging elements, curved path, 3d model with movement animations, victory / defeat animations and progress bar.
+I am satisfied with the results, since I was able to add all the elements I had in mind while watching the demo: damaging elements, curved path, 3d model with movement animations, victory / defeat animations and progress bar. I had also time for implementing a raycast for the AI players, so they can stop if a damaging element is in front of them.
